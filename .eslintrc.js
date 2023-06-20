@@ -18,8 +18,6 @@ module.exports = {
     ],
     'unused-imports/no-unused-imports': 'error',
     'arrow-body-style': ['error', 'as-needed'],
-    'jest/no-standalone-expect': 'off',
-    'jest/no-identical-title': 'off',
     'no-console': [
       'error',
       {
